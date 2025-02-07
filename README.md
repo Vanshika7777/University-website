@@ -49,7 +49,14 @@ university-website/
 ```
 
 ## Screenshots
-![University Website Screenshot](images/homepage.png)(images/contactuspage.png) 
+![University Website Screenshot](images/homepage.png)
+![University Website Screenshot](images/aboutuspage.png)
+![University Website Screenshot](images/contactuspage.png)
+![University Website Screenshot](images/facilitiespage.png)
+![University Website Screenshot](images/blogpage.png)
+![University Website Screenshot](images/coursespage.png)
+![University Website Screenshot](images/addresspage.png)
+![University Website Screenshot](images/commentpage.png)
 *Screenshot of the university website homepage.*
 
 ## Contributing
