@@ -38,11 +38,18 @@ university-website/
 ├── styles/          # Folder containing CSS files
 │   └── style.css    # Main stylesheet
 └── assets/
-     └── Screenshot 2025-02-07 151434.png        # Folder for images and other assets (if any)
+     └──homepage.png
+└──contactuspage.png
+└──aboutuspage.png
+└──facilitiespage.png
+└──blogpage.png
+└──coursespage.png
+└──addresspage.png
+└──commentpage.png       # Folder for images and other assets (if any)
 ```
 
 ## Screenshots
-![University Website Screenshot](images/Screenshot 2025-02-07 151434.png)
+![University Website Screenshot](images/homepage.png)(images/contactuspage.png) 
 *Screenshot of the university website homepage.*
 
 ## Contributing
